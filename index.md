@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Michael Troina Portfolio
 
 You can use the [editor on GitHub](https://github.com/mtroina/michaeltroina.co/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
